@@ -1,1 +1,1 @@
-CI4 -> CI4 -> CI4.exe
+Run game: CI4 -> CI4 -> CI4.exe
